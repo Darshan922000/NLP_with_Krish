@@ -1,2 +1,2 @@
-# NLP_with_Krish
-ANN Model Building: ANN_Classification_Churn
+# ANN_Classification_Churn
+ANN Model Building with Krish: ANN_Classification_Churn
